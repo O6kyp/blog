@@ -47,8 +47,8 @@ categories = [
 Все коды расположены на github. Участники и тестировщики поощряются.
 
 * [Skycoin Github Organization](https://github.com/skycoin)
-* [Skycoin Core & Wallet](https://github.com/skycoin/skycoin)
-* [Skycoin Mobile Wallet](https://github.com/skycoin/skycoin-mobilewallet)
+* [Skycoin Core & Кошелек](https://github.com/skycoin/skycoin)
+* [Skycoin Мобильный Кошелек](https://github.com/skycoin/skycoin-mobilewallet)
 * [Skywire (Meshnet)](https://github.com/skycoin/skywire)
 * [Skycoin BBS](https://github.com/skycoin/bbs)
 * [Skycoin CX](https://github.com/skycoin/cx)
