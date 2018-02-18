@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Community Links"
+title = "Ссылки сообществ Skycoin"
 tags = [
     "Community",
 ]
@@ -10,25 +10,24 @@ categories = [
 ]
 +++
 
-Talk with the Skycoin Team
+Поговорить с Командой Skycoin
 --------------------------
 
-The Skycoin team is most active on Telegram.
+Команда Skycoin самая активная в Telegram
 
-* [Skycoin Telegram Channel](https://t.me/Skycoin)
-* [Skycoin BBS Channel](https://t.me/skycoinbbs)
-* [Skycoin News Channel](https://t.me/skycoinnews)
-* [Skycoin Bounty Program Channel](https://t.me/skycoinbounty)
-
+* [Skycoin Telegram Канал](https://t.me/Skycoin)
+* [Skycoin BBS Канал](https://t.me/skycoinbbs)
+* [Skycoin Новостной Канал](https://t.me/skycoinnews)
+* [Skycoin Канал Программы Вознаграждений](https://t.me/skycoinbounty)
 * [Skycoin Slack](https://skycoin.herokuapp.com)
 * [Skycoin Discord](https://discord.gg/MTepVHE)
 
-Mailing List
+Подписка на рассылку
 ------------
 
 * [Skycoin Mailing List](http://eepurl.com/c4DyAv)
 
-News Updates
+Новости Обновлений
 ------------
 
 * [Skycoin Blog](https://www.skycoin.net/blog/)
@@ -36,16 +35,16 @@ News Updates
 * [Skycoin Reddit](https://reddit.com/r/skycoinproject)
 * [Skycoin Facebook](https://www.facebook.com/skycoinproject)
 
-Media
+Медиа
 -----
 
 * [Skycoin Youtube](https://www.youtube.com/channel/UCzLASufel2No4vSt4rudHSQ)
 * [Skycoin Instagram](https://www.instagram.com/skycoinproject/)
 
-Software
+Программное обеспечение
 --------
 
-All code is published to github.  Contributors and testers are encouraged.
+Все коды расположены на github. Участники и тестировщики поощряются.
 
 * [Skycoin Github Organization](https://github.com/skycoin)
 * [Skycoin Core & Wallet](https://github.com/skycoin/skycoin)
@@ -55,5 +54,5 @@ All code is published to github.  Contributors and testers are encouraged.
 * [Skycoin CX](https://github.com/skycoin/cx)
 * [Skycoin CXO](https://github.com/skycoin/cxo)
 * [Skycoin Messenger](https://github.com/skycoin/net)
-* [Skycoin Website](https://github.com/skycoin/skycoin.net)
-* [Skycoin Blog](https://github.com/skycoin/blog)
+* [Skycoin Сайт](https://github.com/skycoin/skycoin.net)
+* [Skycoin Блог](https://github.com/skycoin/blog)
