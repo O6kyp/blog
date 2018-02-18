@@ -1,5 +1,5 @@
 +++
-title = "Ссылки сообществ Skycoin"
+title = "Ссылки Сообществ Skycoin"
 tags = [
     "Community",
 ]
